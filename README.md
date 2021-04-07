@@ -1,1 +1,1 @@
-# Survey on POI recommendation
+# POI recommendation: Reproducibility
