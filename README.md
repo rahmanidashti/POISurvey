@@ -11,3 +11,14 @@ LitePOI is a Python implementation of a number of popular contextual POI recomme
 ## To DO
 - [ ] Add existing datasets along with different features like a table
 - [ ] Add important baseline papers
+
+
+## Team
+LitePOI is developed by
+* Hossein A. Rahmani<sup id="a1">[*](#f1)</sup> (rahmanidashti@alumni.znu.ac.ir)
+* Yashar Deldjoo (yashar.deldjoo@poliba.it)
+* Tommaso Di Noia (tommaso.dinoia@poliba.it)
+
+It is maintained by [SisInfLab Group](http://sisinflab.poliba.it/) and [Hossein A. Rahmani](https://rahmanidashti.github.io/).
+
+<b id="f1"><sup>*</sup></b> Corresponding authors
