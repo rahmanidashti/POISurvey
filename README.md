@@ -13,7 +13,7 @@ LitePOI is a Python implementation of a number of popular contextual POI recomme
 - [ ] Add important baseline papers
 
 ## Contributing
-There are many ways to contribute to **LitePOI**! You can contribute code, make improvements to the documentation, report or investigate [bugs and issues](https://github.com/rahmanidashti/LitePOI/issues). We welcome all contributions from bug fixes to new features and extensions. Feel free to share with us your custom configuration files. We are creating a vault of reproducible experiments, and we would be glad of mentioning your contribution. Reference **LitePOI** in your blogs, papers, and articles. Also, Talk about **LitePOI** on social media with the hashtag **#litepoiers**.
+There are many ways to contribute to **LitePOI**! You can contribute code, make improvements to the documentation, report or investigate [bugs and issues](https://github.com/rahmanidashti/LitePOI/issues). We welcome all contributions from bug fixes to new features and extensions. Feel free to share with us your custom configuration files. We are creating a vault of reproducible experiments, and we would be glad of mentioning your contribution. Reference **LitePOI** in your blogs, papers, and articles. Also, talk about **LitePOI** on social media with the hashtag **#litepoiers**.
 
 
 ## Cite
