@@ -1,3 +1,5 @@
+![logo](./imgs/logo-map.png)
+
 # LitePOI: Simple, Flexible, and Open Source POI Recommendation Framework
 
 LitePOI is a Python implementation of a number of popular contextual POI recommendation algorithms for both implicit and explicit feedback. The framework aims to provide a rich set of components from which you can construct a customized recommender system from a set of algorithms.
