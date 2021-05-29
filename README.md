@@ -13,6 +13,19 @@ LitePOI is a Python implementation of a number of popular contextual POI recomme
 - [ ] Add important baseline papers
 
 
+## Cite
+
+If you find **LitePOI** useful for your research or development, please cite the following [paper](https://arxiv.org/):
+
+```
+@inproceedings{rahmani2021LitePOI,
+  title={TBD},
+  author={TBA},
+  booktitle={TBA},
+  year={2021}
+}
+```
+
 ## Team
 LitePOI is developed by
 * Hossein A. Rahmani<sup id="a1">[*](#f1)</sup> (rahmanidashti@alumni.znu.ac.ir)
