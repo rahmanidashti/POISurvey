@@ -36,3 +36,6 @@ LitePOI is developed by
 It is maintained by [SisInfLab Group](http://sisinflab.poliba.it/) and [Hossein A. Rahmani](https://rahmanidashti.github.io/).
 
 <b id="f1"><sup>*</sup></b> Corresponding authors
+
+## Acknowledgements
+TBA
