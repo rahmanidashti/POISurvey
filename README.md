@@ -1,4 +1,8 @@
-![logo](./imgs/logo-map.png)
+<!-- ![logo](./imgs/logo-map.png) -->
+
+<p align="center">
+  <img src="./imgs/logo-map.png">
+</p>
 
 # LitePOI: Simple, Flexible, and Open Source POI Recommendation Framework
 
